@@ -110,3 +110,5 @@ const user = mockData.filter((value) => {
 }
 });
 console.log(user);
+
+
